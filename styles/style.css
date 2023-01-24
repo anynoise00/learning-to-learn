@@ -10,15 +10,3 @@ ol {
   margin: 0;
   padding: 0;
 }
-
-a {
-  text-decoration: none;
-}
-
-.main-link {
-  transition: opacity 1s;
-}
-
-.main-link:hover {
-  opacity: .5;
-}
