@@ -2,5 +2,6 @@
   display: flex;
   flex-wrap: wrap;
   list-style: none;
-  column-gap: 100px;
+  -moz-column-gap: 100px;
+       column-gap: 100px;
 }

@@ -1,7 +1,14 @@
 # Aprendendo a Aprender
+
 Projeto de página única para ensinar as pessoas a aprenderem, feito usando HTML e CSS.\
-Fiz esse projeto para aprender a organizar elementos com flexbox, posicionar elementos e criar uma estrutura de arquivos e classes segundo a metodologia BEM.
+
+O projeto foi criado com o intuito de praticar várias coisas que venho estudando.
+Entre elas estão: utilização de tags semânticas, organização de elementos usando
+flexbox, posicionamento de elementos, incoporação de conteúdo na página (video,
+iframe, embed e audio), animações, formulários, compatibilidade com diversos
+navegadores, e, principalmente, a utilização da metodologia BEM para estruturar
+arquivos e classes.
 
 ## Planos futuros
-* Melhorar a compatibilidade com diversos navegadores como prefixos de fornecedores
-* Adicionar um formulário para que os usuários possam enviar comentários
+
+- Adicionar um formulário para que os usuários possam enviar comentários
