@@ -427,6 +427,33 @@
             </a>
           </div>
         </section>
+
+        <form action="" class="comment-form">
+          <div class="comment-form__container">
+            <h3 class="comment-form__title">Deixe um comentário!</h3>
+
+            <label for="name" class="comment-form__label">Nome:</label>
+            <input
+              type="text"
+              name="name"
+              id="name"
+              class="comment-form__input"
+              required
+            />
+
+            <label for="comment" class="comment-form__label">Comentário:</label>
+            <textarea
+              name="comment"
+              id="comment"
+              class="comment-form__input comment-form__input_type_comment"
+              cols="30"
+              rows="10"
+              required
+            ></textarea>
+
+            <button type="submit" class="comment-form__button">Enviar</button>
+          </div>
+        </form>
       </main>
 
       <footer class="footer">

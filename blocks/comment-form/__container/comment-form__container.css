@@ -1,0 +1,10 @@
+.comment-form__container {
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+  box-sizing: border-box;
+  background-color: #f2f2f2;
+  width: 820px;
+  padding: 50px;
+  margin: auto;
+}

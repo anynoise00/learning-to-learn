@@ -1,0 +1,16 @@
+.comment-form__button {
+  align-self: flex-end;
+  border: 0;
+  cursor: pointer;
+  background-color: #1f1f1f;
+  color: white;
+  padding: 16px 50px;
+  line-height: 24px;
+  font-size: 18px;
+  font-weight: normal;
+  transition: opacity 0.2s;
+}
+
+.comment-form__button:hover {
+  opacity: 0.8;
+}

@@ -8,7 +8,3 @@ flexbox, posicionamento de elementos, incoporação de conteúdo na página (vid
 iframe, embed e audio), animações, formulários, compatibilidade com diversos
 navegadores, e, principalmente, a utilização da metodologia BEM para estruturar
 arquivos e classes.
-
-## Planos futuros
-
-- Adicionar um formulário para que os usuários possam enviar comentários

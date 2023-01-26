@@ -1,0 +1,9 @@
+.comment-form__input {
+  box-sizing: border-box;
+  margin-bottom: 12px;
+  padding: 10px;
+}
+
+.comment-form__input:focus {
+  outline: none;
+}

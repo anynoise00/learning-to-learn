@@ -80,6 +80,15 @@
 @import url("../blocks/resources/__logo-zone/resources__logo-zone.css");
 @import url("../blocks/resources/__logo/resources__logo.css");
 
+@import url("../blocks/comment-form/comment-form.css");
+@import url("../blocks/comment-form/__container/comment-form__container.css");
+@import url("../blocks/comment-form/__title/comment-form__title.css");
+@import url("../blocks/comment-form/__label/comment-form__label.css");
+@import url("../blocks/comment-form/__input/comment-form__input.css");
+@import url("../blocks/comment-form/__input/_type/comment-form__input_type_name.css");
+@import url("../blocks/comment-form/__input/_type/comment-form__input_type_comment.css");
+@import url("../blocks/comment-form/__button/comment-form__button.css");
+
 @import url("../blocks/footer/footer.css");
 @import url("../blocks/footer/__author/footer__author.css");
 @import url("../blocks/footer/__column-heading/footer__column-heading.css");
