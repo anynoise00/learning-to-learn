@@ -8,3 +8,5 @@ flexbox, posicionamento de elementos, incoporação de conteúdo na página (vid
 iframe, embed e audio), animações, formulários, compatibilidade com diversos
 navegadores, e, principalmente, a utilização da metodologia BEM para estruturar
 arquivos e classes.
+
+Você pode checar o projeto no [link](https://anynoise00.github.io/web_project_1_ptbr/)
