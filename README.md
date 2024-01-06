@@ -6,4 +6,4 @@ Uma página com diversas informações para auxiliar as pessoas a aprenderem. Fo
 
 Tecnologias utilizadas: HTML, CSS, metodologia BEM e Figma.
 
-Você pode checar o projeto no [link](https://anynoise00.github.io/web_project_1_ptbr/)
+Você pode checar o projeto no [link](https://anynoise00.github.io/learning-to-learn/)
