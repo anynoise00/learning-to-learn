@@ -1,7 +1,7 @@
 # Learning to Learn
 
 ![Front page image](./assets/img/frontpage.png)
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anynoise00/news-explorer-frontend/blob/main/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/anynoise00/learning-to-learn/blob/main/LICENSE)
 
 ## About
 
