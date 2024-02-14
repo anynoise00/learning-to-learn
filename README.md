@@ -15,7 +15,7 @@ This website is in brazillian portuguese!
 
 ## Technologies
 
-The following technologies where used for building this project:
+The following tools where used for building this project:
 
 - HTML and CSS
 - BEM methodology
